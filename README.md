@@ -12,6 +12,7 @@
 
 ### 📌 Projects
 - Excel Interactive Dashboard (Hospital Emergency Room Data)
+- SQL-Sales analysis
 
 ### 🎯 Goals
 - Build real-world data analysis projects
